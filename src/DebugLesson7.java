@@ -9,7 +9,7 @@ public class DebugLesson7 {
             int stringLength = aString.length();
             System.out.println("In all lowercase, the sentence is: " + aString + " " + stringLength);
 
-            for(int i = 0; i < stringLength; i++) {
+            for(int i = 0; i <= stringLength-1; i++) {
                 char ch = Character.toLowerCase(aString.charAt(i));
                 System.out.print(ch);
                 if (Character.isLetter(ch)) {

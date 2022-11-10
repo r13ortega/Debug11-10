@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a05c96b-7ea3-4b36-b554-a675bcf8c4c3" name="Changes" comment="adding more debug lessons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DebugLesson6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DebugLesson6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DebugLesson7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DebugLesson7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
